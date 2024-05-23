@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DroidSans-Bold.ttf",
+      "sha1": "0f46d7eeb0a96d304059f4ae9dc28771d50fa5fa"
+    },
+    {
+      "path": "assets/fonts/DroidSans.ttf",
+      "sha1": "b7a0181a8849b275051a336b8a13c3bc9030e341"
+    }
+  ]
+}
